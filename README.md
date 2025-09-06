@@ -17,7 +17,7 @@ It helps HR professionals and managers understand workforce behavior, track attr
 - ✅ Interactive filters for **Education Field** and **Department**.  
 - ✅ Clear visualizations using **Pie Charts, Bar Graphs, Tree Maps, and KPIs**.  
 
----
+
 
 ## 📂 Dataset
 The dataset used for this dashboard contains details of employees such as:  
@@ -27,7 +27,7 @@ The dataset used for this dashboard contains details of employees such as:
 - Attrition status and satisfaction level  
 
 
----
+
 
 ## 🛠 Tools & Technologies
 - **Microsoft Excel**  
@@ -36,22 +36,32 @@ The dataset used for this dashboard contains details of employees such as:
   - Conditional Formatting  
   - Interactive Filters & Slicers  
 
----
+
 
 ## 📈 Insights from Dashboard
-- The organization has **366 employees**, with an **attrition rate of 13.93%**.  
-- Workforce is **100% male**, highlighting gender imbalance.  
-- Highest attrition observed in employees aged **25–44 years**.  
-- Employees with **Bachelor’s and Master’s degrees** showed the highest attrition.  
-- Most attrition occurred in **R&D and Sales departments**.  
-- **Job Satisfaction Rating** is low at **2.2 / 5**, indicating a need for improvement in employee engagement.  
 
----
+- The organization has **1470 employees** with an attrition rate of **16.12%**.  
+- **R&D (56.1%)** and **Sales (38.8%)** face the highest attrition, while HR is least affected (5%).  
+- **Sales Executives (326)** and **Research Scientists (292)** show the most attrition among job roles.  
+- Employees with **Bachelor’s (99)** and **Master’s (58)** degrees leave more often than others.  
+- Attrition is highest among employees aged **25–44 years**.  
+- **Married employees (673)** contribute the most to attrition.  
+- Workforce gender split: **60% Male, 40% Female**.  
+- Overall **job satisfaction is low (2.6/5)**, signaling a need for engagement initiatives.  
+
+
+
 
 ## 📷 Dashboard Preview
 ![HR Analytics Dashboard](https://github.com/PoreddyUshasree/HR-Analytics-Excel-Dashboard/blob/main/HR-Analytics-Dashboard.png)
 
----
+## 📌 Key Takeaways
+- Attrition is **concentrated in Sales and R&D departments**.
+- Younger to mid-aged groups (**25–44 years**) are most at risk of leaving.
+- **Job satisfaction is low (2.6/5)** → a potential driver of attrition.
+- Special attention is required for **Sales Executives, Research Scientists, and mid-career professionals**.
+- Focused HR interventions in **career growth, employee engagement, and work-life balance** could help reduce attrition.
+
 
 ## 🎯 Purpose
 This project demonstrates how **HR data can be visualized using Excel** to support decision-making in areas like:  
@@ -60,12 +70,11 @@ This project demonstrates how **HR data can be visualized using Excel** to suppo
 - Identifying high-risk departments and job roles  
 - Enhancing workforce planning  
 
----
+
 
 ## 🔮 Future Improvements
 - Automate data refresh using **Power Query**.  
 - Build a **Power BI version** for advanced interactivity.  
 - Add **predictive analytics** to forecast attrition trends.  
 
----
 
