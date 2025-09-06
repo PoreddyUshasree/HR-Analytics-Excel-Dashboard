@@ -4,8 +4,6 @@
 The **HR Analytics Dashboard** is an Excel-based project designed to provide data-driven insights into employee attrition, workforce demographics, and job satisfaction trends.  
 It helps HR professionals and managers understand workforce behavior, track attrition patterns, and support strategic decision-making.
 
----
-
 ## 🚀 Features
 - ✅ **Key Metrics**: Total employees, attrition, active employees, attrition rate, and average age.  
 - ✅ **Gender Diversity**: Breakdown of employees by gender.  
@@ -51,7 +49,7 @@ The dataset used for this dashboard contains details of employees such as:
 ---
 
 ## 📷 Dashboard Preview
-![HR Analytics Dashboard](6ff9684d-e1cd-4b9f-b692-3bcddcea85ff.png)
+![HR Analytics Dashboard](https://github.com/PoreddyUshasree/HR-Analytics-Excel-Dashboard/blob/main/HR-Analytics-Dashboard.png)
 
 ---
 
