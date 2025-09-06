@@ -53,7 +53,7 @@ The dataset used for this dashboard contains details of employees such as:
 
 
 ## 📷 Dashboard Preview
-![HR Analytics Dashboard](https://github.com/PoreddyUshasree/HR-Analytics-Excel-Dashboard/blob/main/HR-Analytics-Dashboard.png)
+![HR Analytics Dashboard]()
 
 ## 📌 Key Takeaways
 - Attrition is **concentrated in Sales and R&D departments**.
